@@ -7,5 +7,5 @@
 
 ชลกร สุทธเวช 660610746
 
-<strong>GITHUB PAGE URL : https://cpe207.github.io/lab03-sweetypie28/index.html </strong>
+<strong>GITHUB PAGE URL : https://cpe207.github.io/lab03-Sweetypie28/index.html </strong>
 
