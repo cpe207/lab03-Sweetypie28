@@ -15,3 +15,34 @@
     background-color: #ddd; 
     color: black;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    background-color: #2E4053 ;
+    padding: 10px 0;
+  }
+  
+  .nav-link {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .nav-link:hover {
+    color: #ddd;
+    transform: scale(1.1);
+  }
+  
+  .nav-link:active {
+    color: #bbb;
+  }
